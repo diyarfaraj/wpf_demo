@@ -1,0 +1,15 @@
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\bin\Debug\InstantKioskStatus.exe.config
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\bin\Debug\InstantKioskStatus.exe
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\bin\Debug\InstantKioskStatus.pdb
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\InstantKioskStatus.csprojAssemblyReference.cache
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\MainWindow.g.cs
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\App.g.cs
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\InstantKioskStatus_MarkupCompile.cache
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\InstantKioskStatus_MarkupCompile.lref
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\MainWindow.baml
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\InstantKioskStatus.g.resources
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\InstantKioskStatus.Properties.Resources.resources
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\InstantKioskStatus.csproj.GenerateResource.cache
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\InstantKioskStatus.csproj.CoreCompileInputs.cache
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\InstantKioskStatus.exe
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\InstantKioskStatus.pdb
