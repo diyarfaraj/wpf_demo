@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:InstantKioskStatus"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Canvas x:Name="CanvasMain" Height="450" Width="800" PreviewMouseMove="CanvasMain_PreviewMouseMove" PreviewMouseUp="CanvasMain_PreviewMouseUp">
-        
+        Title="MainWindow" Height="1000" Width="2000">
+    <Canvas x:Name="CanvasMain" Height="1000" Width="2000" PreviewMouseMove="CanvasMain_PreviewMouseMove" PreviewMouseUp="CanvasMain_PreviewMouseUp" Background="LightGray">
+        <Image Height="50" Canvas.Left="10" Canvas.Top="10" Width="234" Source="https://instantsystems.se/wp-content/uploads/2019/10/logo-retina-1.png"/>
     </Canvas>
 </Window>

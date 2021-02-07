@@ -13,3 +13,14 @@ C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\Inst
 C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\InstantKioskStatus.csproj.CoreCompileInputs.cache
 C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\InstantKioskStatus.exe
 C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\InstantKioskStatus.pdb
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\bin\Debug\NetTopologySuite.dll
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\bin\Debug\System.Buffers.dll
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\bin\Debug\System.Memory.dll
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\bin\Debug\NetTopologySuite.xml
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\bin\Debug\System.Buffers.xml
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\bin\Debug\System.Memory.xml
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diyar\source\repos\InstantKioskStatus\InstantKioskStatus\obj\Debug\InstantKioskStatus.csproj.CopyComplete
